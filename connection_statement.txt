@@ -1,0 +1,2 @@
+SERVER=smtp.example.com
+PORT=587
